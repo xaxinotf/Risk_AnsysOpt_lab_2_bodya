@@ -7,6 +7,13 @@
 - Мінімізується J(c) = k·c + p·E[(L - c)_+].
 - Результат: оптимальний резерв c* та супутні метрики.
 
+<img width="1316" height="831" alt="image" src="https://github.com/user-attachments/assets/b172fa76-4430-4784-b545-b57a0b4adce9" />
+
+<img width="1281" height="480" alt="image" src="https://github.com/user-attachments/assets/9173e151-9cc6-4c0e-a266-5913d9571c14" />
+
+<img width="987" height="539" alt="image" src="https://github.com/user-attachments/assets/b9453fdf-f88b-46df-a9d0-ef4952a4fa14" />
+
+
 ## Вимоги
 
 - Python 3.10 (рекомендовано віртуальне середовище)
